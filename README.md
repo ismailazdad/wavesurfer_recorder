@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-<img src='https://img.shields.io/github/license/Rajatm544/react-audio-editor?style=flat-square' alt='license'>
+<img src='https://img.shields.io/github/license/ismailazdad/wavesurfer_recorder?style=flat-square' alt='license'>
 <a href="https://wavesurfer_recorder_typescript.surge.sh/" target="_parent"><img src='https://img.shields.io/badge/demo-demo-yellow' alt='license'></a>
 </p>
 
