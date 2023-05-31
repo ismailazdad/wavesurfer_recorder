@@ -73,6 +73,7 @@ const AudioRecorder: React.FC = () => {
             wavesurfer.current.load(audioUrl);
         }
     }, [recordedBlob]);
+
     const playRecording = () => {
         if (recordedBlob && wavesurfer.current) {
             const audioUrl = URL.createObjectURL(recordedBlob);
