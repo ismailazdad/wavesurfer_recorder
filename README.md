@@ -8,7 +8,7 @@
 <a href="https://wavesurfer_recorder_typescript.surge.sh/" target="_parent"><img src='https://img.shields.io/badge/demo-demo-yellow' alt='license'></a>
 </p>
 
--   An app to record audio files with wavesurfer.js in the browser
+-   An component to record audio files with wavesurfer.js in the browser
 -   The app is built using React.js(CRA) and [wavesurfer.js](https://wavesurfer-js.org/)
 -   The varios controls included are as follows:
     -   play/stop
