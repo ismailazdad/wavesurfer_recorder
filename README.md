@@ -1,6 +1,6 @@
 
 
-# Simple Audio Recorder component with WaveSurfer writing in typescript
+## Simple Audio Recorder component with WaveSurfer writing in typescript
 
 
 <p align='center'>
