@@ -4,8 +4,9 @@
 
 
 <p align='center'>
-<a href="https://github.com/ismailazdad/wavesurfer_recorder/blob/master/LICENCE"
+<a href="https://github.com/ismailazdad/wavesurfer_recorder/blob/master/LICENCE">
 <img src='https://img.shields.io/github/license/Rajatm544/react-audio-editor?style=flat-square' alt='license'>
+ </a>   
 <a href="https://wavesurfer_recorder_typescript.surge.sh/" target="_parent"><img src='https://img.shields.io/badge/demo-demo-yellow' alt='license'></a>
 </p>
 
