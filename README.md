@@ -1,46 +1,34 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Simple Audio Recorder component with WaveSurfer writing in typescript
 
-In the project directory, you can run:
 
-### `npm start`
+<p align='center'>
+<img src='https://img.shields.io/github/license/Rajatm544/react-audio-editor?style=flat-square' alt='license'>
+<a href="https://wavesurfer_recorder_typescript.surge.sh/" target="_parent"><img src='https://img.shields.io/badge/demo-demo-yellow' alt='license'></a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+-   An app to record audio files with waveforms in the browser!
+-   The app is built using React.js(CRA) and [wavesurfer.js](https://wavesurfer-js.org/)
+-   The varios controls included are as follows:
+    -   play/stop
+    -   record
+    -   download
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+-   The app is deployed to [Surge](https://surge.sh/) using continuous integration from the Github repo
 
-### `npm test`
+## Steps to get started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-   Fork and clone this repo using `git clone https://github.com/Rajatm544/react-audio-editor.git`
+-   `npm install` all dependencies
+-   `npm start` to run the react app locally
+-   Refer the wavesurfer.js docs to add new features!
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tools used for this project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+-   [React.js](https://reactjs.org/): A popular JS library for building user interfaces
+-   [wavesurfer.js](https://wavesurfer-js.org/): A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas.
+-   [material-ui](https://mui.com//): A modern frontend framework, here it is used for the icons
+-   [surge](https://surge.sh//): A platform to deploy web projects with easy-to-use CI tools.
