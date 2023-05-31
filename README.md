@@ -8,18 +8,18 @@
 <a href="https://wavesurfer_recorder_typescript.surge.sh/" target="_parent"><img src='https://img.shields.io/badge/demo-demo-yellow' alt='license'></a>
 </p>
 
--   An app to record audio files with waveforms in the browser!
+-   An app to record audio files with wavesurfer inbrowser
 -   The app is built using React.js(CRA) and [wavesurfer.js](https://wavesurfer-js.org/)
 -   The varios controls included are as follows:
     -   play/stop
     -   record
     -   download
 
--   The app is deployed to [Surge](https://surge.sh/) using continuous integration from the Github repo
+-   The app is deployed to [Surge](https://surge.sh/)
 
 ## Steps to get started
 
--   Fork and clone this repo using `git clone https://github.com/Rajatm544/react-audio-editor.git`
+-   Fork and clone this repo using `git clone https://github.com/ismailazdad/wavesurfer_recorder.git`
 -   `npm install` all dependencies
 -   `npm start` to run the react app locally
 -   Refer the wavesurfer.js docs to add new features!
